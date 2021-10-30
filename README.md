@@ -1,6 +1,13 @@
-# Progetto N1 
-## Una bella lista di qualcosa
+# 3D_Primo_Progetto
+
+## Compro ogni anno lo stesso gioco 
+
+![eee logo](https://c.tenor.com/POOLezPLGXQAAAAM/ea-sports-e-ea-meme.gif)
+
+Penso **sarà un gioco "nuovo"** e invece....
+
+![nice bug](https://gif.fanpage.it/gif/58bb3ea9e4b06a43bc006460_1488666282012.gif)
 
 
 
-![immagine_casuale](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.publicdomainpictures.net%2Fit%2Fview-image.php%3Fimage%3D132197%26picture%3Dlinee-casuali&psig=AOvVaw0yJ0zylvqtO7YMLySdAJ6Y&ust=1635406589547000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLjctbmK6vMCFQAAAAAdAAAAABAD)
+
