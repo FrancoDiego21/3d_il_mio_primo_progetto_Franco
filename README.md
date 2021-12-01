@@ -12,8 +12,9 @@ Penso **sarà un gioco "nuovo"** e invece....
 
 Ensomma!!
 
+Ciaoooo
 
-
+![Ciao](https://www.itagnol.com/wp-content/uploads/2019/01/CIAO-300x179.jpg)
 
 
 
