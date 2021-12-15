@@ -19,7 +19,8 @@ Ciaoooo
 
 Oggi è uscito Spiderman: No Way Home
 
-![SNWH] (https://preview.redd.it/z27ujlkl0qp61.png?auto=webp&s=0ca3f97833cd2280f5fac0c17595d11ca7bf9631)
+![SNWH](https://preview.redd.it/z27ujlkl0qp61.png?auto=webp&s=0ca3f97833cd2280f5fac0c17595d11ca7bf9631)
 
+ff
 
 
